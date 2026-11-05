@@ -1,4 +1,3 @@
-# Muar-AI-Flood-Detection-and-Alert-System
 # 🌊 Muar-AI-Flood-Detection-and-Alert-System (Live Data & Prototype)
 
 ## 📌 Project Overview
